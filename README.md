@@ -1,11 +1,29 @@
 ### Hi 感谢光临尹忠钰的仓库主页！ 👋
-
 - 🔭 I’m currently studying at cqupt, and I'am looking for backend internship using golang.
 - 🌱 I’m currently learning golang、mysql、redis、raft、Operating System、Operating System....
 - 📫 How to reach me: 1014007642@qq.com
-  <!--
-  **yinzhongyu/yinzhongyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**yinzhongyu/yinzhongyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently studying at cqupt, and I'am looking for backend internship using golang.
+
+- 🌱 I’m currently learning golang、mysql、redis、raft、Operating System、Operating System....
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: 1014007642@qq.com
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+  -->
+  
   下面是我的一些博文分享，希望能激励自己坚持的同时👏，大家一起进步😃
 
    [我的个人主页](https://blog.csdn.net/doreen211?type=blog)
